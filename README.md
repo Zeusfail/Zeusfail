@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Star Life Simulator. I’m looking to collaborate on projects in video games, software development, and creative tech ventures<br>🤝 I’m open to learning and growing in Cybersecurity – always interested in tips, resources, or collaboration in this field<br>🌱 I’m currently expanding my skills in Ruby, SQL, C++, PHP, Swift, R, GLua, and TypeScript<br>💬 Feel free to reach out for discussions, questions, or just to connect<br>⚡ Fun fact: I started learning programming when I was only 8 years old. I also create music and am currently writing a book.
+🔭 I’m currently working on Star Life Simulator. I’m looking to collaborate on projects in video games, software development, and creative tech ventures<br>🤝 I’m open to learning and growing in Cybersecurity – always interested in tips, resources, or collaboration in this field<br>🌱 I’m currently expanding my skills in Ruby, SQL, C++, PHP, Swift, R, GLua, and TypeScript<br>💬 Feel free to reach out for discussions, questions, or just to connect<br>
 
 
 ## 🌐 Socials:
