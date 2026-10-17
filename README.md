@@ -1,28 +1,73 @@
-# 💫 About Me:
-🔭 I’m currently working on Star Life Simulator. I’m looking to collaborate on projects in video games, software development, and creative tech ventures<br>🤝 I’m open to learning and growing in Cybersecurity – always interested in tips, resources, or collaboration in this field<br>🌱 I’m currently expanding my skills in Ruby, SQL, C++, PHP, Swift, R, GLua, and TypeScript<br>💬 Feel free to reach out for discussions, questions, or just to connect<br>
+# Hi, I'm Zayla 👋
 
+Game & mod developer from French Polynesia 🌺 I like taking things apart to understand how they work, then making them do things they weren't meant to.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Zeusfail)
-[![E-mail](https://img.shields.io/badge/email-white?logo=gmail)](mailto:dylangallemard@gmail.com)
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Zeusfail&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Zeusfail&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeusfail&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Zeusfail&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Zeusfail&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 🎮 **Games & mods**: Subnautica 2 mods, Nintendo 3DS networking, my own games, and soon inZOI, Star Citizen and Kerbal Space Program
+- 🔍 **Reverse engineering**: memory patching, DLL injection, console system modules
+- 🧠 **AI research**: a multimodal model for the French AI Olympiad, and an ongoing ultrasound imaging project (I'm 18, I won't revolutionize the world with it, I'm just learning through this big project)
+- 🔐 **Learning**: cybersecurity tips, resources and collaborations are always welcome
+- 🤝 **Open to**: collaborations on video games, software and creative tech (I also make music and pixel art)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zeusfail&icon=6&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Featured projects
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**CTRelay**](https://github.com/Zeusfail/CTRelay) | Play Nintendo 3DS local-wireless games over the internet: a real 3DS running Luma3DS joins a session hosted on Azahar, through a self-hosted relay | C, C++ |
+| [**Too-Many-Divers**](https://github.com/Zeusfail/Too-Many-Divers) | Removes Subnautica 2's 4-player co-op cap at runtime (UE4SS mod, host-only) | Lua |
+| [**Too-Many-Rooms**](https://github.com/Zeusfail/Too-Many-Rooms) | Removes base placement collision restrictions in Subnautica 2 with an in-memory patch | C++ |
+| [**FOAI-2025**](https://github.com/Zeusfail/FOAI-2025) | Predicts alien mushroom toxicity from images and tabular data (CNN + MLP with attention fusion) for the French AI Olympiad 2025 | Python |
+
+---
+
+## 💻 Tech stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Assembly](https://img.shields.io/badge/assembly-%23525252.svg?style=for-the-badge)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![GDScript](https://img.shields.io/badge/gdscript-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+## 📊 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeusfail&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeusfail&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeusfail&theme=radical&hide_border=false)
+
+---
+
+## 🤖 AI transparency
+
+I disclose AI use on every project: which tools, how much of the work they did (level 0 to 5) and how I checked it. See my [AI transparency charter](AI-CHARTER.md) ([version française](AI-CHARTER.fr.md)).
+
+---
+
+## 🌐 Contact
+
+[![Website](https://img.shields.io/badge/website-zayla.studio-%23FF4F8B.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zayla.studio)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Zeusfail)
+[![E-mail](https://img.shields.io/badge/email-contact%40zayla.studio-white?style=for-the-badge)](mailto:contact@zayla.studio)
+
+---
+
+## 💖 Support
+
+If my mods or tools helped you, you can support a good cause:
+
+[![Fondation ARC](https://img.shields.io/badge/Fondation_ARC-cancer_research-%23E4007C.svg?style=for-the-badge)](https://www.fondation-arc.org/agir-ensemble/je-fais-un-don/)
+
+Or buy me a coffee ☕
+
+[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee-%23FFDD00.svg?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/zayla)
+
+[![](https://visitcount.itsvg.in/api?id=Zeusfail&icon=6&color=4)](https://visitcount.itsvg.in)
